@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class CamDaddy {
+public class maxIndSetBinaryString {
 	
 	public static ArrayList<String> binaryStringConstruct(int length){
 		ArrayList<String> codeWords = new ArrayList<String>();
